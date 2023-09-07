@@ -13,7 +13,7 @@ here's my <a href ="https://github.com/aanyaa22"> github page </a>
 <h2> Images </h2>
 <img src="images/62294.jpg">
 
-i really like being outside 
+i really like being outside ls
 i like bikes and cars
 i try to make money off of stocks 
 i like liistening to the weeknd 
