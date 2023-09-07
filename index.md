@@ -19,6 +19,9 @@ i try to make money off of stocks
 i like liistening to the weeknd 
 </div>
 
+<table>
+
+
 <style>
 .div{text-align:center;}
 </style>

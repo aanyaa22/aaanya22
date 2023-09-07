@@ -336,7 +336,7 @@ courses: { compsci: {week: 2} }
 }
 let snakeDot = function(x, y){
     ctx.font = "16px Arial"; // Adjust the font size here (e.g., 10px, 12px)
-    ctx.fillText("🐍", x * BLOCK, y * BLOCK);
+    ctx.fillText("🦖", x * BLOCK, y * BLOCK);
 }
         /* Random food placement */
         /////////////////////////////////////////////////////////////
