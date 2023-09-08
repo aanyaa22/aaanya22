@@ -8,5 +8,6 @@ type: tangibles
 courses: { compsci: {week: 2} }
 ---
 
-##summary
+## summary
 made a snake gamee
+and got it to work!!
