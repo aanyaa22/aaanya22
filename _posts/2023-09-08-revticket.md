@@ -5,7 +5,7 @@ layout: post
 title: reviewetcket
 description: ETHIS IS PMY PLAN
 type: tangibles
- courses: { compsci: {week:1}}
+courses: { compsci: {week: 3} }
 ---
 
 ## summaruy

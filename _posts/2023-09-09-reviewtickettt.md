@@ -5,8 +5,9 @@ layout: post
 title: reviewetcket
 description: ETHIS IS PMY PLAN
 type: tangibles
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 ---
 
 ## summaruy
-we further updated or upgraded our github page
+made a snake gamee
+and got it to work!!
