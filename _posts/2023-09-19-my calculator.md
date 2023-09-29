@@ -1,3 +1,13 @@
+---
+toc: true
+comments: false
+layout: post
+title: Calculator MD
+description: Grab of the Calculator from APCSA repo.
+type: tangibles
+courses: { compsci: {week: 2} }
+---
+
 %%html
 <style>
   .calculator-output {
@@ -31,7 +41,7 @@
       <div class="calculator-number">1</div>
       <div class="calculator-number">2</div>
       <div class="calculator-number">3</div>
-      <div class="calculator-operation">+</div>
+       <div class="calculator-operation">+</div>
       <div class="calculator-operation">/</div>
       <!--row 2-->
       <div class="calculator-number">4</div>

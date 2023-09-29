@@ -5,7 +5,7 @@ layout: post
 title: Calculator MD
 description: Grab of the Calculator from APCSA repo.
 type: tangibles
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 3} }
 ---
 
 <style>
@@ -50,8 +50,10 @@ courses: { compsci: {week: 2} }
       <!--row 4-->
       <div class="calculator-clear">A/C</div>
       <div class="calculator-number">0</div>
-      <div class="calculator-number">.</div>
+      <div class="calculator-operation">/</div>
       <div class="calculator-equals">=</div>
+      <!--row 5-->
+      <div class="calculator-number">.</div>
   </div>
 </div>
 
